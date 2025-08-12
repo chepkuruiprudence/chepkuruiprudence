@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Prudence Chepkurui
 
-💻 Third-year Computer Science student at Murang’a University of Technology, passionate about **AI, data analysis, and software engineering**. I love building intelligent systems that solve real-world problems and make a positive community impact.
+💻 Third-year Computer Science student at Murang’a University of Technology, passionate about **AI, data analysis, and software engineering**. I build intelligent systems that solve real-world problems and make a positive impact in communities.
 
 ---
 
@@ -39,8 +39,27 @@ Machine learning model to predict floods and droughts using historical weather d
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Activity
 ![Prudence's GitHub stats](https://github-readme-stats.vercel.app/api?username=chepkuruiprudence&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chepkuruiprudence&layout=compact&theme=radical)
+
+---
+
+## 🐍 Contribution Snake
+![snake gif](https://github.com/chepkuruiprudence/chepkuruiprudence/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+## 📌 Latest GitHub Activity
+<!--START_SECTION:activity-->
+<!-- This section will be automatically updated by GitHub Actions -->
+<!--END_SECTION:activity-->
+
+---
+
+## 📫 Let's Connect!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/prudence-chepkurui)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chepkuruiprudence)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF4088?style=for-the-badge&logo=aboutdotme&logoColor=white)](#)
 
 ---
