@@ -40,7 +40,7 @@ Machine learning model to predict floods and droughts using historical weather d
 ---
 
 ## 📊 GitHub Stats & Activity
-![Prudence's GitHub stats](https://github-readme-stats.vercel.app/api?username=chepkuruiprudence&show_icons=true&theme=radical)
+![Prudence's GitHub stats](https://github-readme-stats.vercel.app/api?username=chepkuruiprudence&show_icons=true&theme=radical)</br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chepkuruiprudence&layout=compact&theme=radical)
 
 ---
